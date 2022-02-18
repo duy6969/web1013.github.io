@@ -1,0 +1,222 @@
+.boxtoanbo {
+    width: 1200px;
+    height: 2822px;
+    border: 1px;
+    margin: 0 160px;
+    padding: 15px;
+    background-color: #fff;
+}
+
+.boxchua2box {
+    width: 1150px;
+    height: 280px;
+    border: 1px;
+    margin-top: 20px;
+    padding: 0 0 30px;
+}
+
+.hdaidien {
+    margin: 0 12px 0 4px;
+    width: 195px;
+    text-align: center;
+    display: inline-block;
+}
+
+.boxchua2box img {
+    box-shadow: 0 0 8px 0 #757575;
+    border-radius: 6px;
+    float: left;
+}
+
+.boxthongtin {
+    border: 1px;
+    width: 910px;
+    float: right;
+    text-align: left;
+    height: 240px;
+}
+
+.boxthongtin h1 {
+    font-size: 28px;
+    font-weight: 700px;
+}
+
+.boxview {
+    display: inline-block;
+}
+
+.boxview-1 {
+    display: flex;
+}
+
+.boxview-1 li {
+    padding-right: 30px;
+}
+
+.boxtheloai {
+    margin: 0 0 0 -20px;
+    padding: 12px;
+    border: 1px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.boxtheloai ul li a {
+    text-decoration: none;
+    border: 1px solid orangered;
+    padding: 9px 10px;
+    border-radius: 5px;
+    color: #333;
+    display: inline-block;
+    color: orangered;
+}
+
+.boxtheloai ul li {
+    display: inline-block;
+}
+
+.boxtheloai ul li:hover {
+    background-color: orangered;
+    border-radius: 5px;
+}
+
+.boxtheloai ul li a:hover {
+    color: #fff;
+}
+
+.boxmenu {
+    margin: -15px 0 0 -20px;
+    padding: 12px;
+    border: 1px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.boxmenu ul li a {
+    text-decoration: none;
+    border: 1px;
+    padding: 9px 10px;
+    border-radius: 5px;
+    color: #333;
+    display: inline-block;
+    color: #fff;
+}
+
+.boxmenu ul li {
+    display: inline-block;
+}
+
+.li1 {
+    background-color: green;
+    border-radius: 5px;
+}
+
+.li2 {
+    background-color: red;
+    border-radius: 5px;
+}
+
+.li3 {
+    background-color: violet;
+    border-radius: 5px;
+}
+
+.boxdanhsach {
+    width: 1170px;
+    height: 580px;
+    padding: 0 0 30px;
+    border: 1px;
+    margin-top: 30px;
+}
+
+.boxdanhsach-1 {
+    font-size: 25px;
+    border: 1px;
+    width: 700px;
+    height: 40px;
+}
+
+.boxdanhsach-1 h3 {
+    font-size: 25px;
+    color: orangered;
+}
+
+.boxchuong {
+    width: 1080px;
+    height: 500px;
+    border: 1px solid gray;
+    padding: 0 20px;
+    margin: 0 50px;
+    border-radius: 5px;
+}
+
+.boxchuong-1 {
+    border-bottom: 1px solid gray;
+    padding: 5px 0;
+}
+
+.chuong {
+    text-decoration: none;
+    width: 80%;
+    float: left;
+}
+
+.ngay {
+    text-decoration: none;
+    width: 20%;
+    float: right;
+}
+
+.chuongngay {
+    width: 1035px;
+    height: 10px;
+}
+
+.chuong a {
+    text-decoration: none;
+}
+
+.ngay a {
+    text-decoration: none;
+}
+
+.boxcomment {
+    width: 1030px;
+    height: 200px;
+    padding: 0 0 30px;
+    border: 1px;
+    margin-top: 30px;
+}
+
+.boxhoten {
+    width: 480px;
+    float: left;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.boxgmail {
+    width: 480px;
+    float: right;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.boxbinhluan {
+    width: 300px;
+    height: 200px;
+}
+
+.boxbinhluan-1 {
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.boxbinhluan {
+    margin: 5px 0 0 5px;
+    width: 420px;
+    height: 44px;
+    padding: 0 45px 0 20px;
+    border-radius: 50px;
+    color: #757575;
+}

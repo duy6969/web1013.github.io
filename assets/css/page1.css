@@ -1,0 +1,51 @@
+body {
+    background-color: rgba(74, 74, 74, 0.1);
+}
+
+.boxttrang {
+    margin-bottom: 24px;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 1200px;
+    height: 140px;
+    background-color: #fff;
+}
+
+.boxttrang h1 {
+    color: #9e9e9e;
+    font: 0px;
+    padding: 15px 0 0;
+    width: 100px;
+    float: left;
+}
+
+.boxttrang h2 {
+    color: #9e9e9e;
+    font: 0px;
+    padding: 15px 0 0;
+    width: 100px;
+    float: left;
+}
+
+.boxttrang ul li a {
+    text-decoration: none;
+    border: 1px solid gray;
+    padding: 9px 10px;
+    border-radius: 5px;
+    color: #333;
+    display: inline-block;
+}
+
+.boxttrang ul li {
+    display: inline-block;
+}
+
+.boxttrang ul li:hover {
+    background-color: red;
+    border-radius: 5px;
+}
+
+.boxttrang ul li a:hover {
+    color: #fff;
+}
